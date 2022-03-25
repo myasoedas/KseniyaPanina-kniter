@@ -1,0 +1,17 @@
+User-Agent: *
+Disallow: /page8080043.html
+Disallow: /header
+Disallow: /page8080050.html
+Disallow: /footer
+Disallow: /page8080116.html
+Disallow: /error
+Disallow: /tilda/form*
+Disallow: /tilda/rec*
+Disallow: /tilda/click*
+Disallow: /tilda/scroll*
+Disallow: /tilda/popup*
+Disallow:
+Sitemap: https://www.kseniyapanina.ru/sitemap.xml
+Sitemap: https://www.kseniyapanina.ru/sitemap-store.xml
+Sitemap: https://www.kseniyapanina.ru/sitemap-feeds.xml
+Host: https://www.kseniyapanina.ru
